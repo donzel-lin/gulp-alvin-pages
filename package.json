@@ -26,7 +26,8 @@
     "url": "git+https://github.com/donzel-lin/gulp-alvin-pages.git"
   },
   "scripts": {
-    "lint": "standard --fix"
+    "lint": "standard --fix",
+    ""
   },
   "dependencies": {
     "@babel/core": "^7.17.8",
