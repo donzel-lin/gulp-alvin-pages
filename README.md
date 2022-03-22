@@ -2,6 +2,10 @@
 
 > static web app workflow
 
+[npm地址](https://www.npmjs.com/package/my-gulp-cli)
+
+
+
 ## Installation
 
 ```shell
