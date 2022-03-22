@@ -1,14 +1,14 @@
 {
   "name": "my-gulp-cli",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "description": "static web app workflow",
   "keywords": [
     "my-gulp-cli",
     "alvin"
   ],
-  "homepage": "https://github.com/zce/zce-pages#readme",
+  "homepage": "https://github.com/donzel-lin/gulp-alvin-pages/tree/master",
   "bugs": {
-    "url": "https://github.com/zce/zce-pages/issues"
+    "url": "https://github.com/donzel-lin/gulp-alvin-pages/issues"
   },
   "license": "MIT",
   "author": "",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zce/zce-pages.git"
+    "url": "git+https://github.com/donzel-lin/gulp-alvin-pages.git"
   },
   "scripts": {
     "lint": "standard --fix"
